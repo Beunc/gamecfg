@@ -1,0 +1,1 @@
+	%LOCALAPPDATA% \VALORANT\Saved\Config
